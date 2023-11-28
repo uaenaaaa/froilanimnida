@@ -1,5 +1,10 @@
-### About me: Socials: 👋
+# **🍩 Hello World, I'm Froilan!**
+### Developer based in Caloocan, Philippines
 
+### Welcome to My GitHub profile!
+### Want to see my works? if so, [click me then](https://github.com/froilaaaaan1)
+
+![nahida-icon](images/nahida.png){width=200px}
 <!--
 **froilaaaaan1/froilaaaaan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
