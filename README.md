@@ -1,21 +1,21 @@
 # **🍩 Hello World, I'm Froilan!**
 ### Developer based in Caloocan, Philippines
-
 ### Welcome to My GitHub profile!
+<br>
+<br>
+
 ### Want to see my works? if so, [click me then](https://github.com/froilaaaaan1)
 
-![nahida-icon](images/nahida.png){width=200px}
-<!--
-**froilaaaaan1/froilaaaaan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="images/nahida.png" width="25%" height="25%">
+I'm currently getting my Bachelors Degree on IT but while doing that I'm currently delving into Machine Learning. As part of my journey I'm creating the bot called Elysian Conversarius
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭[Elysian Conversarius](https://github.com/froilaaaaan1/my-first-chatbot) is a work in progress as I 🌱 delve into deeper and complex world of Machine Learning and AI and also NLP (Natural Language Processing)
+<br>
+<br>
+<br>
+
+
+# 📫 How to reach me?
+
+
