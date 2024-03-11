@@ -17,11 +17,4 @@ I'm currently getting my Bachelors Degree on IT but while doing that I'm current
 
 
 # 📫 How to reach me?
-### Just Click the icon then you'll be redirected >_<
-<a href="https://twitter.com/frln_1"><image src="images/twitter-icon.png" width="25%" height="25%"></a>
-
-<a href="https://www.linkedin.com/in/froilan-aquino-8249a9192/"><image src="images/linkedin-icon.png" width="25%" height="25%"></a>
-
-<a href="https://www.instagram.com/froilancious/"><image src="images/instagram-icon.png" width="25%" height="25%"></a>
-
-<a href="mailto:froilanaquino1@gmail.com"><image src="images/envelope-icon.png" width="25%" height="25%"></a>
+### froilan0107@outlook.com >_<
