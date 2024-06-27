@@ -10,6 +10,10 @@ I'm currently getting my Bachelors Degree on IT but while doing that I'm current
 <br>
 <br>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/667cd2ae2028c2d81892c220?variant=light&roadmaps=frontend)](https://roadmap.sh)
+<br>
+<br>
+<br>
 
 # 📫 How to reach me?
 ### froilan0107@outlook.com >_<
