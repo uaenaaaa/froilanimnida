@@ -3,10 +3,6 @@ Developer based in Caloocan, Philippines
 <br>
 <br>
 
-I'm currently getting my Bachelors Degree on IT but while doing that I'm currently delving into Machine Learning.
-<br>
-<br>
-
 
 [![roadmap.sh](https://roadmap.sh/card/wide/667cd2ae2028c2d81892c220?variant=light&roadmaps=frontend)](https://roadmap.sh)
 <br>
